@@ -1,2 +1,2 @@
-# ApiPollingComponent
+# PollingUsingCustomHook
 Created with CodeSandbox
